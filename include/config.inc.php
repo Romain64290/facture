@@ -11,10 +11,10 @@
   define('DB_SERVEUR', 'localhost');
  
   // Login
-  define('DB_LOGIN','factures');
+  define('DB_LOGIN','root');
  
   // Mot de passe
-  define('DB_PASSWORD','TEZwCq]K3g2F5wV\\');
+  define('DB_PASSWORD','eruption');
  
   // Nom de la base de données
   define('DB_NOM','factures');
